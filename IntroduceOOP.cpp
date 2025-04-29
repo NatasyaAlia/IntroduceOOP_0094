@@ -1,6 +1,9 @@
 # include <iostream>
-using name space std;
+using namespace std;
 
+class Mahasiswa{
+
+};
 int main (){
-    
+
 }
